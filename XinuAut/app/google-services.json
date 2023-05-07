@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "789418047782",
+    "project_id": "xinuauto",
+    "storage_bucket": "xinuauto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789418047782:android:b7e3b55875a9c42d58e9e7",
+        "android_client_info": {
+          "package_name": "com.example.xinuaut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789418047782-jfkesrq0gbrar30j8hv60knqvhht0spo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.xinuaut",
+            "certificate_hash": "2998a985940ae31b6261f63a8c920d4d9b7a994e"
+          }
+        },
+        {
+          "client_id": "789418047782-nekkvcc2qi5kjoagp3idj3k5rbbkbda2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaqqowpTAf4hAnumciz2yr0G6Q3yPa9jI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789418047782-nekkvcc2qi5kjoagp3idj3k5rbbkbda2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

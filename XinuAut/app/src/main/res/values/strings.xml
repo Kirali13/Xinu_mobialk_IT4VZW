@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Xinu Autó</string>
+    <string name="username">Felhasználónév</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="register">Regisztráció</string>
+    <string name="email">Email-cím</string>
+    <string name="email_check">Email-cím újra</string>
+    <string name="password_check">Jelszó újra</string>
+    <string name="userregistration">Fiók regisztrálása</string>
+    <string name="registerCancel">Mégse</string>
+    <string name="anonym">Bejelentkezés Vendégként</string>
+    <string name="google">Bejelentkezés Google fiókkal</string>
+    <string name="item_placeholder">ItemName</string>
+    <string name="cart">Kosárba</string>
+    <string name="search">Search</string>
+    <string name="logout">Kijelentkezés</string>
+    <string name="item_placeholder1">ItemCode</string>
+    <string name="delete">Alkatrész törlése</string>
+    <string name="order_abc">ABC szerinti rendezés</string>
+    <string name="order_price">Ár szerinti rendezés</string>
+    <string name="create">Új alkatrész</string>
+    <string name="partname">Alkatrész neve\n</string>
+    <string name="partcode">Alkatrész kódja</string>
+    <string name="partprice">Alkatrész ára</string>
+    <string name="upload">Feltöltés</string>
+    <string name="update">Alkatrész frissítése</string>
+    <string name="cheap">5000 alatti termékeink</string>
+
+    <string-array name="carpartnames">
+        <item>Motorolaj</item>
+        <item>Fagyálló</item>
+        <item>Fékfolyadék</item>
+        <item>Keréktároló</item>
+        <item>Keréknyomásmérő</item>
+    </string-array>
+
+    <string-array name="carpartcodes">
+        <item>AWmA7qkH</item>
+        <item>xU4uRVnM</item>
+        <item>IsypCNSx</item>
+        <item>Xt3GdD3Q</item>
+        <item>8edjND9C</item>
+    </string-array>
+
+    <string-array name="carpartprices">
+        <item>4990</item>
+        <item>5500</item>
+        <item>6000</item>
+        <item>3000</item>
+        <item>3500</item>
+    </string-array>
+
+    <array name="carpartimgs">
+        <item>@drawable/motorolaj</item>
+        <item>@drawable/fagy</item>
+        <item>@drawable/fek</item>
+        <item>@drawable/kerektarolo</item>
+        <item>@drawable/kereknyomasmero</item>
+
+    </array>
+
+</resources>
