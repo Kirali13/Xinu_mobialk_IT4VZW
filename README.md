@@ -22,4 +22,6 @@
 - Admin felhasználó: 
     1. email: admin@admin.com
     2. pw: adminvagyokhello
+
+- Bugok/hibák: Lehet, hogy valamiért ha csak az apkból futtatod akkor egyből kidob, mert nem akarja feldobni azt, hogy engedélyt kérjen a médiatartalmakra. Nálam ha andoid studioból futtattam a sajátomon akkor jó volt. Az angedély megadása után sajna resetlnie kell magát, hogy megmutassa az animációt, ezt úgy a legegyszerűbb ha elforgatod a képernyőt aztán vissza és akkor mind2 animációt bedobja. Ha sehogysem akarja megnyitni, akkor az AppThemeben a Permission checkereket és a playmusichoz tartozó dolgokat kikommentezed, majd buildelsz egy apkt akkor lefut csak zene és animációk nélkül :( 
        
