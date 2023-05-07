@@ -1,7 +1,8 @@
 # Xinu_mobialk_IT4VZW
 
 #Infók az appról:
--2 animáció: mindkettő a kezdő lapon, az egyik portrait módban, a másik landscapeben
+
+- 2 animáció: mindkettő a kezdő lapon, az egyik portrait módban, a másik landscapeben
 
 - Xiaomi Redmi Note 9-en fejlesztettem, ott reszponzív minden oldal, egyedül a listázásnál valamiért eltűnnek az itemek adatai
 
