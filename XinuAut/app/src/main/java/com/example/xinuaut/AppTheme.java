@@ -24,6 +24,10 @@ public class AppTheme extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_app_theme);
 
+        permissionCheck();
+    }
+
+    private void permissionCheck() {
         // Check if permission is granted
         if (ContextCompat.checkSelfPermission(this, android.Manifest.permission.READ_EXTERNAL_STORAGE)
                 != PackageManager.PERMISSION_GRANTED) {
@@ -52,19 +56,6 @@ public class AppTheme extends AppCompatActivity {
             myImage.startAnimation(animation);
         }
 
-    }
-
-    @Override
-    public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
-        super.onRequestPermissionsResult(requestCode, permissions, grantResults);
-        if (requestCode == REQUEST_PERMISSION) {
-            if (grantResults.length > 0 && grantResults[0] == PackageManager.PERMISSION_GRANTED) {
-                // Permission is granted, start playing the music
-                playMusic();
-            } else {
-                finish();
-            }
-        }
     }
 
     private void playMusic() {
