@@ -1,5 +1,7 @@
 # Xinu_mobialk_IT4VZW
 
+# Ha bármi kérdésed lenne akkor kérlek írj egy emailt nekem: lorinc.taskovics@gmail.com
+
 #Infók az appról:
 
 - 2 animáció: mindkettő a kezdő lapon, az egyik portrait módban, a másik landscapeben
